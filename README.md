@@ -1,7 +1,4 @@
-📄 README.md
-markdown
-Copy
-Edit
+
 # 🧠 Law AI Agent
 
 A privacy-preserving legal assistant powered by local AI and Retrieval-Augmented Generation (RAG). This tool helps users analyze legal documents, extract key clauses, auto-fill templates, calculate legal risk scores, and more — all without compromising sensitive data.
